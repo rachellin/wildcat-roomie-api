@@ -25,5 +25,8 @@
     "pg": "^8.5.1",
     "react-ga": "^3.3.0",
     "uuidv4": "^6.2.7"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.2.5"
   }
 }
