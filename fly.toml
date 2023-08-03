@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for wildcat-roomie-api on 2023-05-16T18:46:41-05:00
+# fly.toml app configuration file generated for wildcat-roomie on 2023-05-17T16:52:56-05:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "wildcat-roomie-api"
+app = "wildcat-roomie"
 primary_region = "ord"
 
 [http_service]

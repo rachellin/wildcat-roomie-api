@@ -12,7 +12,6 @@ const pool = new Pool({
   //   rejectUnauthorized: false
   // }
   //ssl: false // false if local since i guess localhost server doesn't support ssl
-  ssl: process.env.DATABASE_URL ? { rejectUnauthorized: false } : false
 });
 
 // general query or select
